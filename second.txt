@@ -1,2 +1,4 @@
 second
 conflict created by 1st user
+chnaged in merge 2
+
