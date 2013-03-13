@@ -1,1 +1,2 @@
 second
+conflict created by 1st user
